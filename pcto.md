@@ -1,14 +1,15 @@
-# **_Daniel Lanotte_**
+## **_Daniel Lanotte_**
 
 # Relazione PCTO
 
-Durante il triennio abbiamo svolto diverse attività relative al programma PCTO che ci hanno permesso di sviluppare conoscenze ed esperienze relative al mondo del lavoro. <br>
+Durante il triennio abbiamo svolto diverse attività relative al programma PCTO che ci hanno permesso di sviluppare conoscenze ed esperienze relative al mondo del lavoro.
+
 I referenti che mi hanno seguito sono:
 
 - Corbellari Elisabetta _per il terzo anno_
 - Russo Carla _per il quarto e quinto anno_
 
-Di seguito l'elenco (a grandi linee) delle attività svolte:
+Di seguito l'elenco delle attività svolte più significative:
 
 - Terzo anno:
 
@@ -35,14 +36,26 @@ Questa è stata la prima, fondamentale attività che ci ha poi permesso di svolg
 
 ### Here Technologies _(Here Map Creator)_
 
-Abbiamo avuto l'opportunità di collaborare con Here Technologies, una delle principali aziende di mappe digitali al mondo,
+Abbiamo avuto l'opportunità di collaborare con Here Technologies, una delle principali aziende di mappe digitali e servizi di navigazione al mondo.
+
+L'offerta dell'azienda aveva l'obiettivo di fa acquisire conoscenze in merito alla produzione, l'aggiornamento e l'uso della cartografia digitale.
+
+L'attività è stata svolta completamente da remoto, conosciuto il referente Paolo Rigato, che ci ha dato una panoramica dell'azienda e ci ha spiegato cose avremmo fatto, dopo di ché ci ha spiegato come usare la piattaforma Here Map Creator, con il quale avremo avremmo messo mano alle mappe.
+
+Il compito era quallo di risolvere tutti i map alert, cioè delle segnalazioni di errori o mancanze sulla mappa, come: strade mancanti, controllo limiti di velocità, controllo dei numeri civici, ecc.
 
 ### Boolean Coding Week
 
-### Cisco Academy Day
+La Boolean coding week è una proposta dalla Boolean academy, una piattaforma per imparare programmazione web e data analytics.
+
+L'attività ha come obiettivo di insegnare le basi della programmazione web introducendo ai linguaggi html, css e javascript.
+
+Abbiamo seguito diverse lezioni da remoto con il quale ci hanno spiegato le basi dei linguaggi citati e durante le quali abbiamo sviluppato un gioco memory online.
 
 ### Accenture Modulo Digital _(progettazione web)_
 
 ### Accenture Cybersecurity
+
+### Cisco Academy Day
 
 ### Accenture Modulo Business
