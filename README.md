@@ -75,9 +75,15 @@ Un penetration test è una prova che un'azienda può eseguire sui propri sistemi
 
 Cisco è un'azienda leader nel mondo per quanto riguarda la fornitura di apparati e servizi di networking.
 
-La proposta di cisco aveva l'obiettivo di farci fare esperienza per quanto riguarda la gestione di apparati di rete e la loro sicurezza.
+La proposta di cisco aveva l'obiettivo di farci fare esperienza per quanto riguarda la **gestione di apparati di rete e la loro sicurezza**.
 
-L'attività si è svolta dal vivo in uno stabilimento di Assago in squadra con ragazzi provenienti da scuole diverse.  
-Nel laboratorio Cisco abbiamo simulato una rete con il software di simulazione Packet Tracer, il compito era quello di configurare le tabelle di routing dei router e accedere agli altri apparati, nel nostro caso gli Switch, per poi riuscire ad accedere alla rete della squadra avversaria negandogli l'accesso alla loro rete.
+L'attività si è **svolta dal vivo** in uno stabilimento di Assago in squadra con ragazzi provenienti da scuole diverse.  
+Nel laboratorio Cisco abbiamo simulato una rete con il software di simulazione Packet Tracer, il compito era quello di configurare le tabelle di routing dei router e accedere agli altri apparati, nel nostro caso gli Switch, per poi riuscire ad **entrare nella rete della squadra avversaria** negandogli l'accesso alla loro rete.
 
 ### Accenture Modulo Business
+
+Sempre grazie ad Accenture abbiamo avuto accesso a un laboratorio in presenza di 3 giorni nella quale avremmo svilupato un'idea sulla quale **fondare una startup**.
+
+A seguito di un'analisi di mercato l'idea del mio gruppo è stata quella di un'app universale per l'attività sportiva e la dieta.  
+Abbiamo l'analisi swot e delle 5 forze dopo di ché abbiamo abbiamo creato un piano di sviluppo rappresentato tramite un diagramma di Gantt.
+L'idea sviluppata è infine stata presentata a un possibile investitore impersonato da una dipendente di Accenture che lo fa di lavoro.
