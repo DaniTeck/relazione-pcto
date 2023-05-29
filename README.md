@@ -22,7 +22,8 @@ Di seguito l'elenco delle attività svolte più significative:
   - Accenture Modulo Cybersecurity
 
 - Quinto anno:
-  - Cisco IT Academy Day
+
+  - Cisco Laboratorio Reti _con Packet Tracer_
   - Accenture Modulo Business
 
 ### Corso di sicurezza generale e specifica sul lavoro
@@ -35,32 +36,48 @@ Questa è stata la prima, fondamentale attività che ci ha poi permesso di svolg
 
 ### Here Technologies _(Here Map Creator)_
 
-Abbiamo avuto l'opportunità di collaborare con Here Technologies, una delle principali aziende di mappe digitali e servizi di navigazione al mondo.
+Abbiamo avuto l'opportunità di collaborare con Here Technologies, una delle principali aziende di **mappe digitali** e **servizi di navigazione** al mondo.
 
 L'offerta dell'azienda aveva l'obiettivo di fa acquisire conoscenze in merito alla produzione, l'aggiornamento e l'uso della cartografia digitale.
 
-L'attività è stata svolta completamente da remoto, conosciuto il referente Paolo Rigato, che ci ha dato una panoramica dell'azienda e ci ha spiegato cose avremmo fatto, dopo di ché ci ha spiegato come usare la piattaforma Here Map Creator, con il quale avremo avremmo messo mano alle mappe.
+L'attività è stata svolta **completamente da remoto**, abbiamo conosciuto il referente Paolo Rigato, che ci ha dato una panoramica dell'azienda e ci ha spiegato cosa avremmo fatto, dopo di ché ci ha spiegato come usare la piattaforma Here Map Creator, con il quale avremo avremmo messo mano alle mappe.
 
-Il compito era quallo di risolvere tutti i map alert, cioè delle segnalazioni di errori o mancanze sulla mappa, come: strade mancanti, controllo limiti di velocità, controllo dei numeri civici, ecc.
+Il compito era quello di risolvere tutti i map alert, cioè delle segnalazioni di errori o mancanze sulla mappa, come: strade mancanti, controllo limiti di velocità, controllo dei numeri civici, ecc.
 
 ### Boolean Coding Week
 
 La Boolean coding week è una proposta dalla Boolean academy, una piattaforma per imparare programmazione web e data analytics.
 
-L'attività ha come obiettivo di insegnare le basi della programmazione web introducendo ai linguaggi html, css e javascript.
+L'attività ha come obiettivo di insegnare le **basi della programmazione web** introducendo ai linguaggi html, css e javascript.
 
-Abbiamo seguito diverse lezioni da due ore ciascuna da remoto con il quale ci hanno spiegato le basi dei linguaggi citati e durante le quali abbiamo sviluppato un gioco memory online.
+Abbiamo seguito diverse lezioni da due ore ciascuna **da remoto** con il quale ci hanno spiegato le basi dei linguaggi citati e durante le quali abbiamo **sviluppato un gioco** memory online.
 
 ### Accenture Modulo Cybersecurity
 
 Accenture è un'azienda di consulenze considerata da Forbes tra le più prestigiose al mondo e presente stabilmente nella classifica Fortune 500.
 
-In questo modulo abbiamo imparato i fondamenti della cybersecurity e alcuni suoi concetti, tra cui:
+Per questo modulo ci siamo recati nella sede di Assago dove abbiamo assistito alla lezione di 4 ore nella quale abbiamo imparato i fondamenti della cybersecurity e alcuni suoi concetti, tra cui:
 
-#### Privileged access
+- **Privileged access**
 
+Il privileged access prevede che ogni utente sia autenticato in modo che possa essere riconosciuto dal sistema e che possa disporre dei privilegi minimi necessari per lo svolgimento della sua mansione.
 
+- **Incident response process**
 
-### Cisco IT Academy Day
+L'IRP è un protocollo da seguire in caso di incidenti, in modo da ridurre al minimo le perdite ed eventualmente ripristinare i dati persi.
+
+- **Penetration Test**
+
+Un penetration test è una prova che un'azienda può eseguire sui propri sistemi che simula un'attacco hacker.  
+È molto utile per conoscere la reazione del sistema e correggere eventuali errori o migliorare i protocolli di sicurezza.
+
+### Cisco Laboratorio Reti _con Packet Tracer_
+
+Cisco è un'azienda leader nel mondo per quanto riguarda la fornitura di apparati e servizi di networking.
+
+La proposta di cisco aveva l'obiettivo di farci fare esperienza per quanto riguarda la gestione di apparati di rete e la loro sicurezza.
+
+L'attività si è svolta dal vivo in uno stabilimento di Assago in squadra con ragazzi provenienti da scuole diverse.  
+Nel laboratorio Cisco abbiamo simulato una rete con il software di simulazione Packet Tracer, il compito era quello di configurare le tabelle di routing dei router e accedere agli altri apparati, nel nostro caso gli Switch, per poi riuscire ad accedere alla rete della squadra avversaria negandogli l'accesso alla loro rete.
 
 ### Accenture Modulo Business
