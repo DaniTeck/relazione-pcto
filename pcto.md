@@ -19,7 +19,6 @@ Di seguito l'elenco delle attività svolte più significative:
 - Quarto anno:
 
   - Boolean Coding Week
-  - Accenture Modulo Digital _(progettazione web)_
   - Accenture Modulo Cybersecurity
 
 - Quinto anno:
@@ -50,12 +49,18 @@ La Boolean coding week è una proposta dalla Boolean academy, una piattaforma pe
 
 L'attività ha come obiettivo di insegnare le basi della programmazione web introducendo ai linguaggi html, css e javascript.
 
-Abbiamo seguito diverse lezioni da remoto con il quale ci hanno spiegato le basi dei linguaggi citati e durante le quali abbiamo sviluppato un gioco memory online.
+Abbiamo seguito diverse lezioni da due ore ciascuna da remoto con il quale ci hanno spiegato le basi dei linguaggi citati e durante le quali abbiamo sviluppato un gioco memory online.
 
-### Accenture Modulo Digital _(progettazione web)_
+### Accenture Modulo Cybersecurity
 
-### Accenture Cybersecurity
+Accenture è un'azienda di consulenze considerata da Forbes tra le più prestigiose al mondo e presente stabilmente nella classifica Fortune 500.
 
-### Cisco Academy Day
+In questo modulo abbiamo imparato i fondamenti della cybersecurity e alcuni suoi concetti, tra cui:
+
+#### Privileged access
+
+
+
+### Cisco IT Academy Day
 
 ### Accenture Modulo Business
