@@ -87,3 +87,8 @@ Sempre grazie ad Accenture abbiamo avuto accesso a un laboratorio in presenza di
 A seguito di un'analisi di mercato l'idea del mio gruppo è stata quella di un'app universale per l'attività sportiva e la dieta.  
 Abbiamo l'analisi swot e delle 5 forze dopo di ché abbiamo abbiamo creato un piano di sviluppo rappresentato tramite un diagramma di Gantt.
 L'idea sviluppata è infine stata presentata a un possibile investitore impersonato da una dipendente di Accenture che lo fa di lavoro.
+
+## Conclusioni
+
+Vorrei ringraziare in particolar modo la referente Carla Russo che, soprattutto in questo ultimo anno, ci ha permesso di entrare in contatto con realtà davvero importanti come Accenture, Cisco e Boolean, che ci hanno permesso di avere esperienze in grado di farci immaginare le possibilità per il nostro futuro.  
+Ho trovato molto significativa la Boolean Coding Week perché mi ha fatto scoprire un mondo, quello dello sviluppo web, che non conoscevo bene e che ho scoperto piacermi molto. Tanto da aver creato un gruppo di tre compagni con il quale abbiamo cominciato a sviluppare per curiosità un piccolo sito chiamato ISSTracker che permette di visualizzare
