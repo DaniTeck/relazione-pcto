@@ -91,4 +91,4 @@ L'idea sviluppata è infine stata presentata a un possibile investitore imperson
 ## Conclusioni
 
 Vorrei ringraziare in particolar modo la referente Carla Russo che, soprattutto in questo ultimo anno, ci ha permesso di entrare in contatto con realtà davvero importanti come Accenture, Cisco e Boolean, che ci hanno permesso di avere esperienze in grado di farci immaginare le possibilità per il nostro futuro.  
-Ho trovato molto significativa la Boolean Coding Week perché mi ha fatto scoprire un mondo, quello dello sviluppo web, che non conoscevo bene e che ho scoperto piacermi molto. Tanto da aver creato un gruppo di tre compagni con il quale abbiamo cominciato a sviluppare per curiosità un piccolo sito chiamato ISSTracker che permette di visualizzare
+Ho trovato molto significativa la Boolean Coding Week perché mi ha fatto scoprire un mondo, quello dello sviluppo web, che non conoscevo bene e che ho scoperto piacermi molto. Tanto da aver creato un gruppo di tre compagni con il quale abbiamo cominciato a sviluppare per curiosità un piccolo sito chiamato ISSTracker che permette di visualizzare la Stazione Spaziale Internazionale su un modello 3D della terra
